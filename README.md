@@ -1,4 +1,4 @@
-# EnviroSense – Sensor Data Converter and Analyser
+# Environment Sense – Sensor Data Converter and Analyser
 
 ELEC2645 Unit 2 C programming project
 
@@ -9,7 +9,7 @@ Student ID: **201898804**
 
 ## 1. Overview
 
-EnviroSense is a small menu-driven C program based on the ELEC2645 Unit 2 template.
+Environment Sense is a small menu-driven C program based on the ELEC2645 Unit 2 template.
 
 The program:
 
@@ -52,6 +52,9 @@ The program:
 
 * `LICENSE`
   Licence file supplied with the template materials.
+
+* `adc_test.txt`
+  Example input file containing one integer ADC value per line, used with menu item 3 for batch conversion.
 
 ---
 
@@ -111,7 +114,7 @@ Main menu:
 
 3. **Batch conversion + statistics + plot**
 
-   * read a text file containing one ADC value per line;
+   * read a text file containing one integer ADC value per line (for example `adc_test.txt`);
    * convert all values;
    * print min / max / mean and how many are above the threshold;
    * show an ASCII plot of the data.
