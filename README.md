@@ -2,8 +2,8 @@
 
 ELEC2645 Unit 2 C programming project
 
-Author: **Your Name**
-Student ID: **Your ID**
+Author: **Yixiang Zhao**
+Student ID: **201898804**
 
 ---
 
